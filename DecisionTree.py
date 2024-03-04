@@ -40,8 +40,7 @@ class DecisionTree:
         value = counter.most_common(1)[0][0]
         return value
     
-    def predict():
-
+ 
 
 
         
